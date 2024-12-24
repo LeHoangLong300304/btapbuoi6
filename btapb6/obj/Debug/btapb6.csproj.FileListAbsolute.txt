@@ -1,0 +1,15 @@
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.csproj.AssemblyReference.cache
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.Form1.resources
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.Properties.Resources.resources
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.csproj.GenerateResource.cache
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.csproj.CoreCompileInputs.cache
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\btapb6.exe.config
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\btapb6.exe
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\btapb6.pdb
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\EntityFramework.dll
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\EntityFramework.xml
+C:\Users\lel59\source\repos\btapb6\btapb6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.csproj.Up2Date
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.exe
+C:\Users\lel59\source\repos\btapb6\btapb6\obj\Debug\btapb6.pdb

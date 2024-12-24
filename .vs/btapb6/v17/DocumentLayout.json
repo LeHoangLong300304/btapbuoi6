@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lel59\\source\\repos\\btapb6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|solutionrelative:btapb6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|solutionrelative:btapb6\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|c:\\users\\lel59\\source\\repos\\btapb6\\btapb6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|solutionrelative:btapb6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|c:\\users\\lel59\\source\\repos\\btapb6\\btapb6\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|solutionrelative:btapb6\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|c:\\users\\lel59\\source\\repos\\btapb6\\btapb6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F11C9E9D-3025-4BF6-8CDB-A6653FE6EAAF}|btapb6\\btapb6.csproj|solutionrelative:btapb6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "btapb6\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Models\\Student.cs",
+              "RelativeToolTip": "btapb6\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:45:14.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "btapb6\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Models\\Faculty.cs",
+              "RelativeToolTip": "btapb6\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:44:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Models\\studentDBContext.cs",
+              "RelativeDocumentMoniker": "btapb6\\Models\\studentDBContext.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Models\\studentDBContext.cs",
+              "RelativeToolTip": "btapb6\\Models\\studentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:32:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Form1.cs",
+              "RelativeDocumentMoniker": "btapb6\\Form1.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Form1.cs",
+              "RelativeToolTip": "btapb6\\Form1.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAlwHoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:33:21.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Form1.cs",
+              "RelativeDocumentMoniker": "btapb6\\Form1.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\btapb6\\btapb6\\Form1.cs [Design]",
+              "RelativeToolTip": "btapb6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:41:41.449Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
